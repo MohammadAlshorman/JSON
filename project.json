@@ -6,12 +6,7 @@
             "imgurl": "https://user-images.githubusercontent.com/87645745/198541198-19ab97e1-4941-40ae-82cb-1f121050541f.png",
             "liveDemoLink": "https://weather-finder-app-react.netlify.app/",
             "sourceLink": "https://web.facebook.com/mohammad.shehadeh.alshorman",
-            "badge": [
-                "React Js",
-                "Javascript",
-                "Bootstrap",
-                "API"
-            ]
+        
         },
         {
             "title": "Feedback Dashboard for Police",
